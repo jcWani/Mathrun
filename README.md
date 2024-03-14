@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-![Screenshot](https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Mathrun/Mathrun-home.png)
+<img src='https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Mathrun/Mathrun-home.png' width='100' height='100'>
 
 <p align="center">
 MathRun is an engaging Android game designed to merge education with entertainment, offering users an immersive experience in learning mathematical concepts, particularly vector equations. Developed using Unity and Visual Studio, MathRun provides a dynamic platform where players navigate an endless runner scenario while tackling basic vector operations within a time-constrained environment. The game's core mechanics include obstacle avoidance, power-up acquisition, and vector equation challenges, all wrapped within a visually stimulating interface.
