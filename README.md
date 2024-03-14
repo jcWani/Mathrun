@@ -5,7 +5,7 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-<img src="https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Mathrun/Mathrun-home.jpg" width="300" height="2400">
+<img src="https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Mathrun/Mathrun-home.jpg" width="540" height="1200">
 <img src="https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Mathrun/Mathrun-gameplay.jpg" width="100" height="100">
 <img src="https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Mathrun/Mathrun-quiz.jpg" width="100" height="100">
 
