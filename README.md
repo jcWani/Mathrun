@@ -6,7 +6,7 @@
 
 ## About The Project
 <p align="center">
-  <img src='https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Mathrun/Mathrun-home.png' width='300' height='600'>
+  <img src='https://cjaylxcmzxbovendcgcs.supabase.co/storage/v1/object/public/Mathrun/Mathrun-home.png' width='300' height='500'>
 </p>
 
 
