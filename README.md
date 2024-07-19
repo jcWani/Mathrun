@@ -46,5 +46,5 @@ MathRun is an engaging Android game designed to merge education with entertainme
 
 <!-- DEMO -->
 ## 🎮 Try the Game
-[drive.google.com/drive/folders/mathrun](https://drive.google.com/file/d/1rlcI6plmv435qjlw4Fy2_sfabKtXOXa5/view?usp=sharing)
+[itch.io/mathrun](https://jmswani.itch.io/mathrun)
 
